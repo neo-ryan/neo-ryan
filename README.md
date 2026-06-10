@@ -3,6 +3,7 @@
 # About me
 
 My name is Ryan, I'm from Brazil and I study IT at the Federal University of Rio Grande do Norte (UFRN).
+
 I develop backends with FastAPI and Python, and study cybersecurity — a field I'm drawn to for its problem-solving nature.
 
 # Tech:
