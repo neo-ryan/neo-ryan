@@ -2,11 +2,8 @@
 
 # About me
 
-My name is Ryan, i'm from Brazil, i study IT in the Federal University of Rio Grande do Norte (UFRN).
-
-I develop backends with FastAPI, which i have been learning how to master,
-i also explored data analytics and study cybersecurity, a field which is very 
-enjoyable to me due to its problem solving challenges.
+My name is Ryan, I'm from Brazil and I study IT at the Federal University of Rio Grande do Norte (UFRN).
+I develop backends with FastAPI and Python, and study cybersecurity — a field I'm drawn to for its problem-solving nature.
 
 # Tech:
 <p align='center'>
